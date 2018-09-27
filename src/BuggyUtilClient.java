@@ -2,7 +2,7 @@ public class BuggyUtilClient {
     public static void main(String[] args) {
         // First test case in Main
         //Hi
-        //Hi again
+        //Hello
         System.out.println("Example 1: Make My Username");
         System.out.println("In: first = " + "\"Sean\"" +
                 ", last = " + "\"Flannery\"");
